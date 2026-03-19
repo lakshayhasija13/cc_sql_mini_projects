@@ -14,6 +14,7 @@
 | new_york_restaurant | New York Restaurant | ⭐⭐ Beginner-Intermediate |
 | subway_ad | Subway Ad | ⭐ Beginner |
 | trends_in_startups | Trends in Startups | ⭐⭐⭐ Intermediate |
+| vr_startup_company | VR Startup Company | ⭐⭐⭐ Intermediate |
 | welp | Welp | ⭐⭐⭐ Intermediate |
 
 ### Rating Scale
