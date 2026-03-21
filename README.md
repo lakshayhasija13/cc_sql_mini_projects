@@ -4,6 +4,8 @@
 
 | Project Name (Directory) | Display Name | Difficulty Rating |
 |---|---|---|
+| attribute_queries | Attribute Queries | ⭐⭐⭐⭐ Advanced |
+| churn_rate | Churn Rate | ⭐⭐⭐⭐ Advanced |
 | climate_change | Climate Change | ⭐⭐⭐⭐⭐ Expert |
 | customer_segmentation | Customer Segmentation | ⭐ Beginner |
 | exchange | Exchange | ⭐⭐ Beginner-Intermediate |
