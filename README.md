@@ -4,6 +4,7 @@
 
 | Project Name (Directory) | Display Name | Difficulty Rating |
 |---|---|---|
+| climate_change | Climate Change | ⭐⭐⭐⭐⭐ Expert |
 | customer_segmentation | Customer Segmentation | ⭐ Beginner |
 | exchange | Exchange | ⭐⭐ Beginner-Intermediate |
 | fraudulent_transactions | Fraudulent Transactions | ⭐ Beginner |
@@ -24,3 +25,4 @@
 | ⭐⭐ | Beginner-Intermediate | Aggregate functions (SUM, COUNT, AVG, MAX, MIN), GROUP BY, CASE WHEN |
 | ⭐⭐⭐ | Intermediate | JOINs, UNION, HAVING, date functions, complex filtering |
 | ⭐⭐⭐⭐ | Advanced | CTEs (WITH), multiple JOINs, UNION, complex subqueries |
+| ⭐⭐⭐⭐⭐ | Expert | Window functions (OVER, PARTITION BY, FIRST_VALUE, LAST_VALUE, LAG, RANK, NTILE) |
